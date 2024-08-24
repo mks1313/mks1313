@@ -48,6 +48,11 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
 
 ---
 
+Feel free to connect with me or explore my projects. Looking forward to collaborating and learning from the amazing community here!
+
+
+---
+
 ## 📫 Contact
 
 - 📧 **Email**: [mg.marinov@gmx.es)
