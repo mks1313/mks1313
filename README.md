@@ -37,6 +37,13 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
     - **Cypress**: An end-to-end testing framework that provides fast, reliable testing for modern web applications, with an interactive interface for debugging.
 
 ---
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mks1313)
+
+---
 
 ## 📫 Contact
 
