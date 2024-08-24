@@ -18,12 +18,23 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
 
 ---
 
-## 🛠️ Technologies and Tools
+### Skills
 
-- **Languages**: C, C++, JavaScript
-- **Frameworks and Libraries**: Node.js, React, Bootstrap, Tailwind
-- **Web Development**: HTML, CSS
-- **Testing**: QA
+- **Programming Languages**: C, C++
+- **Web Development**:
+  - **Frontend**: HTML, CSS, JavaScript
+    - **Frameworks/Libraries**: React, Bootstrap, Tailwind
+    - **Additional Technologies**:
+      - **i18n**: A library for internationalization used to support multiple languages in frontend applications, enabling dynamic language switching and localization.
+      - **Axios**: A promise-based HTTP client for making requests to APIs. It simplifies sending HTTP requests and handling responses, and is commonly used for data fetching in frontend applications.
+  - **Backend**: Node.js, Express.js
+    - **Additional Technologies**:
+      - **bcrypt**: A library for hashing passwords, ensuring secure storage and management of user credentials in backend applications. Used for implementing secure user authentication and protecting sensitive data.
+      - **Postman**: A popular tool for API development and testing, allowing you to send requests, inspect responses, and document API endpoints.
+- **Quality Assurance (QA)**:
+  - **Testing Tools**:
+    - **Selenium**: A powerful tool for automating web browsers, used for writing complex tests across different browsers and programming languages.
+    - **Cypress**: An end-to-end testing framework that provides fast, reliable testing for modern web applications, with an interactive interface for debugging.
 
 ---
 
