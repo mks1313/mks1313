@@ -1,5 +1,15 @@
 # Hello, I'm Maksim Georgiev Marinov 👋
 
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mks1313)
+
+---
+
 Welcome to my GitHub profile! I'm a technology and programming enthusiast with a strong background in various areas. Currently, I'm on an exciting journey of learning and development in the software world.
 
 ## 🚀 About Me
@@ -35,13 +45,6 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
   - **Testing Tools**:
     - **Selenium**: A powerful tool for automating web browsers, used for writing complex tests across different browsers and programming languages.
     - **Cypress**: An end-to-end testing framework that provides fast, reliable testing for modern web applications, with an interactive interface for debugging.
-
----
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mks1313)
 
 ---
 
