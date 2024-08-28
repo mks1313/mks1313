@@ -76,7 +76,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
   </a>
 
   <a href="https://www.mgmarinov.com/portfolio">
-    <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <svg width="40" height="40" xmlns="<a href="https://www.flaticon.es/iconos-gratis/ataque-cibernetico"</a>>
       <path fill="currentColor" d="M2 3h20v18H2V3zm6 3h8v2H8V6zm0 4h8v2H8v-2zm0 4h8v2H8v-2z"/>
     </svg>
   </a>
