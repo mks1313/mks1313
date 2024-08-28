@@ -76,8 +76,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
   </a>
 
   <a href="https://www.mgmarinov.com/portfolio">
-    <img src="![image](https://github.com/user-attachments/assets/67e7294c-2594-4def-b21e-a029d1124952)
-">
+    <img src="https://es.vecteezy.com/arte-vectorial/7555972-icono-cartera-adecuado-para-arte-simbolo-ojos-azules-estilo-diseno-simple-diseno-editable-plantilla-vector-simple-ilustracion">
   </a>
 
 </div>
