@@ -75,11 +75,14 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" alt="Stack Overflow">
   </a>
 
-  <a href="https://www.mgmarinov.com/portfolio">
-    <img src="https://es.vecteezy.com/arte-vectorial/7555972-icono-cartera-adecuado-para-arte-simbolo-ojos-azules-estilo-diseno-simple-diseno-editable-plantilla-vector-simple-ilustracion">
-  </a>
+<p align="center">
+  <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 4v14h18V4H3zm6 6h6m-6 4h6m-6-8h6"/>
+    </g>
+  </svg>
+</p>
 
-</div>
 
 ---
 
