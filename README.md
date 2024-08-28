@@ -75,10 +75,8 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" alt="Stack Overflow">
   </a>
 
-  <a href="https://www.mgmarinov.com/portfolio">
-    <svg width="40" height="40" xmlns="<a href="https://www.flaticon.es/iconos-gratis/ataque-cibernetico"</a>>
-      <path fill="currentColor" d="M2 3h20v18H2V3zm6 3h8v2H8V6zm0 4h8v2H8v-2zm0 4h8v2H8v-2z"/>
-    </svg>
+ <a href="https://www.mgmarinov.com/portfolio">
+    <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio">
   </a>
 
 </div>
