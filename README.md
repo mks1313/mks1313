@@ -61,23 +61,23 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
 Feel free to connect with me or explore my projects. Looking forward to collaborating and learning from the amazing community here!
 
 
----
 ## 📫 Contact
 
-<div style="display: flex; align-items: center; margin-right: 100px;">
-  <a href="mailto:mg.marinov@gmx.es" margin-right: 100px;>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" margin-right: 100px; width="40">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="mailto:mg.marinov@gmx.es">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" style="border-radius: 10%;">
   </a>
   <a href="https://www.linkedin.com/in/mgmarinov/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" style="border-radius: 10%;">
   </a>
   <a href="https://stackoverflow.com/users/22835936/maksim-marinov">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" style="border-radius: 10%;">
   </a>
   <a href="https://www.mgmarinov.com/portfolio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Portfolio_icon.svg" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Portfolio_icon_black.png" width="40" style="border-radius: 10%;">
   </a>
 </div>
+
 
 
 
