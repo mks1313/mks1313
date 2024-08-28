@@ -73,5 +73,8 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 <a href="https://www.mgmarinov.com/" style="margin-right: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Globe_icon.svg" width="40">
 </a>
+<a href="https://www.mgmarinov.com/portfolio" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Briefcase_icon.svg" width="40">
+</a>
 
 Feel free to connect with me or check out my work!
