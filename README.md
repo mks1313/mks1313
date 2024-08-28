@@ -58,8 +58,7 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
 ---
 
 Feel free to connect with me or explore my projects. Looking forward to collaborating and learning from the amazing community here!
-
- ## 📫 Contact
+## 📫 Contact
 
 <div style="display: flex; align-items: center; justify-content: center;">
 
@@ -67,8 +66,12 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email">
   </a>
 
-  <a href="https://www.linkedin.com/in/mgmarinov/" style="margin: 0 80px;">
+  <a href="https://www.linkedin.com/in/mgmarinov/" style="margin: 0 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn">
+  </a>
+
+  <a href="https://stackoverflow.com/users/22835936/maksim-marinov" style="margin: 0 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" alt="Stack Overflow">
   </a>
 
   <a href="https://www.mgmarinov.com/portfolio" style="margin: 0 20px;">
