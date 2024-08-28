@@ -65,9 +65,16 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 
 ## 📫 Contact
 
-[![Email](https://yourdomain.com/email-icon.png)](mailto:mg.marinov@gmx.es)
-[![LinkedIn](https://yourdomain.com/linkedin-icon.png)](https://www.linkedin.com/in/mgmarinov/)
-[![Portfolio](https://yourdomain.com/portfolio-icon.png)](https://www.mgmarinov.com/)
+<a href="mailto:mg.marinov@gmx.es">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30">
+</a>
+<a href="https://www.linkedin.com/in/mgmarinov/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">
+</a>
+<a href="https://www.mgmarinov.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Globe_icon.svg" width="30">
+</a>
+
 
 
 
