@@ -65,7 +65,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 ## 📫 Contact
 
 <div style="display: flex; align-items: center; margin-right: 100px;">
-  <a href="mailto:mg.marinov@gmx.es">
+  <a href="mailto:mg.marinov@gmx.es" margin-right: 100px;>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40">
   </a>
   <a href="https://www.linkedin.com/in/mgmarinov/">
