@@ -65,9 +65,10 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 
 ## 📫 Contact
 
-- <a href="mailto:mg.marinov@gmx.es"><img src="https://img.shields.io/badge/Email-mg.marinov%40gmx.es-blue?style=flat-square&logo=gmail&logoColor=white"></a>
-- <a href="https://www.linkedin.com/in/mgmarinov/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-- <a href="https://www.mgmarinov.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=internet-explorer"></a>
+[![Email](https://yourdomain.com/email-icon.png)](mailto:mg.marinov@gmx.es)
+[![LinkedIn](https://yourdomain.com/linkedin-icon.png)](https://www.linkedin.com/in/mgmarinov/)
+[![Portfolio](https://yourdomain.com/portfolio-icon.png)](https://www.mgmarinov.com/)
+
 
 
 
