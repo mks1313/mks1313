@@ -65,8 +65,8 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 
 ## 📫 Contact
 
-- 📧 **Email**: [mg.marinov@gmx.es)
-- 🌐 **LinkedIn**: [https://www.linkedin.com/in/mgmarinov/)
-- 💼 **Portfolio**: [https://www.mgmarinov.com/)
+- ![Email](https://img.shields.io/badge/Email-mg.marinov%40gmx.es-blue?style=flat-square&logo=gmail&logoColor=white)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=internet-explorer)
 
 Feel free to connect with me or check out my work!
