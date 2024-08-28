@@ -58,6 +58,7 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
 ---
 
 Feel free to connect with me or explore my projects. Looking forward to collaborating and learning from the amazing community here!
+
 ## 📫 Contact
 
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -70,7 +71,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn">
   </a>
 
-    <a href="https://www.mgmarinov.com/portfolio" style="margin: 0 20px;">
+  <a href="https://www.mgmarinov.com/portfolio" style="margin: 0 20px;">
     <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio">
   </a>
 
@@ -79,6 +80,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
   </a>
 
 </div>
+
 
 ---
 
