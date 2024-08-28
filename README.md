@@ -75,8 +75,10 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" alt="Stack Overflow">
   </a>
 
-  <a href="https://www.mgmarinov.com/portfolio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Portfolio_icon_black.png" width="40" alt="Portfolio">
+ <a href="https://www.mgmarinov.com/portfolio">
+    <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M2 3h20v18H2V3zm6 3h8v2H8V6zm0 4h8v2H8v-2zm0 4h8v2H8v-2z"/>
+    </svg>
   </a>
 
 </div>
