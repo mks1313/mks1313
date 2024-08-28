@@ -66,7 +66,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 
 <div style="display: flex; align-items: center; margin-right: 100px;">
   <a href="mailto:mg.marinov@gmx.es" margin-right: 100px;>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" margin-right: 100px; width="40">
   </a>
   <a href="https://www.linkedin.com/in/mgmarinov/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
