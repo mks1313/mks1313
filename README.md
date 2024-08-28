@@ -64,7 +64,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 ---
 ## 📫 Contact
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20rem;">
   <a href="mailto:mg.marinov@gmx.es">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40">
   </a>
