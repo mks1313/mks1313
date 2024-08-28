@@ -64,17 +64,20 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 ---
 ## 📫 Contact
 
-<a href="mailto:mg.marinov@gmx.es" style="margin-right: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40">
-</a>
-<a href="https://www.linkedin.com/in/mgmarinov/" style="margin-right: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
-</a>
-<a href="https://www.mgmarinov.com/" style="margin-right: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Globe_icon.svg" width="40">
-</a>
-<a href="https://www.mgmarinov.com/portfolio" style="margin-right: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Briefcase_icon.svg" width="40">
-</a>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="mailto:mg.marinov@gmx.es">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40">
+  </a>
+  <a href="https://www.linkedin.com/in/mgmarinov/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
+  </a>
+  <a href="https://www.mgmarinov.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Globe_icon.svg" width="40">
+  </a>
+  <a href="https://www.mgmarinov.com/portfolio">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Briefcase_icon_black_and_white.svg" width="40">
+  </a>
+</div>
+
 
 Feel free to connect with me or check out my work!
