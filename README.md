@@ -72,24 +72,15 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
   </a>
 
   <a href="https://stackoverflow.com/users/22835936/maksim-marinov">
-    <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M2 12l10-10 10 10-10 10-10-10z"/>
-        <path d="M12 2v20M12 12h8m-8 4h8m-8-8h8"/>
-      </g>
-    </svg>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" alt="Stack Overflow">
   </a>
 
   <a href="https://www.mgmarinov.com/portfolio">
-    <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M4 4v16h16V4H4zm6 6h6m-6 4h6m-6-8h6"/>
-      </g>
-    </svg>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Portfolio_icon_black.png" width="40" alt="Portfolio">
   </a>
 
 </div>
 
 ---
-Feel free to connect with me or check out my work!
 
+Feel free to connect with me or check out my work!
