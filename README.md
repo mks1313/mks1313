@@ -2,7 +2,8 @@
 
 ---
 
-## GitHub Statistics
+## GitHub Statistics   ![Profile Views](https://komarev.com/ghpvc/?username=mks1313&style=flat-square&color=brightgreen)
+
 
 ### Overall Stats and Top Languages
 
