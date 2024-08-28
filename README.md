@@ -71,8 +71,8 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
   <a href="https://www.linkedin.com/in/mgmarinov/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
   </a>
-  <a href="https://stackoverflow.com/users/your_user_id">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40">
+  <a href="https://stackoverflow.com/users/22835936/maksim-marinov">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="80">
   </a>
   <a href="https://www.mgmarinov.com/portfolio">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Portfolio_icon.svg" width="40">
