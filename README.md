@@ -62,15 +62,15 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 
 ## 📫 Contact
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 40px;">
   <a href="mailto:mg.marinov@gmx.es">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" style="margin-right: 80px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40">
   </a>
   <a href="https://www.linkedin.com/in/mgmarinov/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" style="margin-right: 80px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
   </a>
   <a href="https://stackoverflow.com/users/22835936/maksim-marinov">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" style="margin-right: 80px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40">
   </a>
   <a href="https://www.mgmarinov.com/portfolio">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Portfolio_icon_black.png" width="40">
