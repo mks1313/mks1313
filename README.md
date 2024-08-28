@@ -71,13 +71,14 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
   <a href="https://www.linkedin.com/in/mgmarinov/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
   </a>
-  <a href="https://www.mgmarinov.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Globe_icon.svg" width="40">
+  <a href="https://stackoverflow.com/users/your_user_id">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40">
   </a>
   <a href="https://www.mgmarinov.com/portfolio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Briefcase_icon_black_and_white.svg" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Portfolio_icon.svg" width="40">
   </a>
 </div>
+
 
 
 Feel free to connect with me or check out my work!
