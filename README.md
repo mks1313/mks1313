@@ -4,7 +4,7 @@
 
 ## GitHub Statistics   
 
-![Profile Views](https://komarev.com/ghpvc/?username=mks1313&style=flat-square&color=brighblue)
+![Profile Views](https://komarev.com/ghpvc/?username=mks1313&style=flat-square&color=blue)
 
 ### Overall Stats and Top Languages
 
