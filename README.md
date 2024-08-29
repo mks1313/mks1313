@@ -79,7 +79,6 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 
 </div>
 
-
 ---
 
 Feel free to connect with me or check out my work!
