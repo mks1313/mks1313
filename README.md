@@ -77,10 +77,6 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
     <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio">
   </a>
 
-  <a href="https://stackoverflow.com/users/22835936/maksim-marinov" style="margin: 0 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" width="40" alt="Stack Overflow">
-  </a>
-
 </div>
 
 
