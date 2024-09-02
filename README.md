@@ -75,6 +75,7 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40"/>
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40"/>
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
+    <img style="margin: 10px" src="https://www.svgrepo.com/show/157806/portfolio.svg" alt="Portfolio" height="40"/>
 
 </div>
 
