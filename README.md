@@ -10,6 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
 </p>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&hide_title=true&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
+
 ### Contribution Streak
 
 <p align="center">
