@@ -101,8 +101,3 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
     <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio" style="margin: 0 20px;">
   </a>
 </div>
-
-
----
-
-Feel free to connect with me or check out my work!
