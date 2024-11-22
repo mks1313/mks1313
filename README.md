@@ -19,6 +19,10 @@
 
 ---
 
+https://www.codewars.com/users/mks13/badges/large
+
+---
+
 Welcome to my GitHub profile! I'm a technology and programming enthusiast with a strong background in various areas. Currently, I'm on an exciting journey of learning and development in the software world.
 
 ## 🚀 About Me
