@@ -6,8 +6,8 @@
 
 ### Overall Stats and Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&bg_color=000000&text_color=ffffff&icon_color=00aaff&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&bg_color=000000&text_color=ffffff&icon_color=00aaff&border_radius=10" alt="GitHub Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
 </p>
 
 
@@ -19,7 +19,8 @@
 
 ---
 
-https://www.codewars.com/users/mks13/badges/large
+[![Codewars Badge](https://www.codewars.com/users/mks13/badges/large)](https://www.codewars.com/users/mks13)
+
 
 ---
 
@@ -89,14 +90,18 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 
 ## 📫 Contact
 
-<div style="display: flex; align-items: center; justify-content: center;">
- <a href="mailto:mg.marinov@gmx.es" style="margin: 0 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email">
-  </a> <a href="https://www.linkedin.com/in/mgmarinov/" style="margin: 0 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn">
-  </a> <a href="https://www.mgmarinov.com/portfolio" style="margin: 0 20px;">
-    <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio"> </a>
+<div align="center">
+  <a href="mailto:mg.marinov@gmx.es">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email" style="margin: 0 20px;">
+  </a>
+  <a href="https://www.linkedin.com/in/mgmarinov/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn" style="margin: 0 20px;">
+  </a>
+  <a href="https://www.mgmarinov.com/portfolio">
+    <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio" style="margin: 0 20px;">
+  </a>
 </div>
+
 
 ---
 
