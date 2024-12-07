@@ -1,4 +1,4 @@
-# Hello, I'm Maksim Georgiev Marinov 👋
+# Hello, I'm Maksim 👋
 
 ----
 
