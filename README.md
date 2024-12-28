@@ -41,27 +41,13 @@ I collaborate on various projects, applying my programming and development skill
 In parallel, I am studying **Quality Assurance (QA)**, which helps me understand the importance of quality in software development and apply techniques to ensure that products are robust and reliable.
 
 ---
+
 ## 💡 Support My Work
 
 I'm a passionate young developer working on exciting projects that aim to make a difference! 💻✨  
 If you like my work and would like to support me in my journey, your contribution would mean a lot to me. Every donation helps me continue learning and growing as a developer. 🌱
 
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'HLU8LKL85N896',
-image: {
-src:'https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div>
-
+[![Donate on PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://www.paypal.com/donate/?hosted_button_id=HLU8LKL85N896)
 
 Thank you for your support! 🙏
 
