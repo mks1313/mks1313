@@ -26,6 +26,13 @@
 
 Welcome to my GitHub profile! I'm a technology and programming enthusiast with a strong background in various areas. Currently, I'm on an exciting journey of learning and development in the software world.
 
+# Support My Work
+
+I am a young developer working on interesting projects. If you'd like to support me, please consider making a donation via PayPal.
+
+[![Donate on PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://www.paypal.com/donate/?hosted_button_id=HLU8LKL85N896)
+
+
 ## 🚀 About Me
 
 🎓 **Student at Campus 42 Barcelona**  
