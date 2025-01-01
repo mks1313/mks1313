@@ -103,7 +103,7 @@ Feel free to connect with me or explore my projects. Looking forward to collabor
 </div>
 
 ---
-
+<!--
 ## 💡 Support My Work
 
 I'm a passionate young developer working on exciting projects that aim to make a difference! 💻✨  
@@ -111,4 +111,4 @@ If you like my work and would like to support me in my journey, your contributio
 
 [![Donate on PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://www.paypal.com/donate/?hosted_button_id=HLU8LKL85N896)
 
-Thank you for your support! 🙏
+Thank you for your support! 🙏  -->
