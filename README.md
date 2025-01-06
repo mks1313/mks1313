@@ -99,20 +99,16 @@ Feel free to reach out through any of the following channels:
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn" style="margin: 0 20px; transition: transform 0.2s;">
   </a>
   <a href="https://www.mgmarinov.com/portfolio" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Portfolio_icon.svg" width="40" alt="Portfolio" style="margin: 0 20px; transition: transform 0.2s;">
+    <!-- Usando FontAwesome para el ícono del portafolio -->
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/solid/address-card.svg" width="40" alt="Portfolio" style="margin: 0 20px; transition: transform 0.2s;">
   </a>
 </div>
 
 ### How to Reach Me
 
 - 📧 **Email**: [mg.marinov@gmx.es](mailto:mg.marinov@gmx.es)
-- 🔗 **LinkedIn**: [mgmarinov](https://www.linkedin.com/in/mgmarinov)
-- 🌐 **Portfolio**: [mgmarinov.com/portfolio](https://www.mgmarinov.com)
-
----
-
-Feel free to contact me for collaboration, feedback, or just a friendly chat. I'm always happy to connect!
-
+- 🔗 **LinkedIn**: [mgmarinov](https://www.linkedin.com/in/mgmarinov/)
+- 🌐 **Portfolio**: [mgmarinov.com/portfolio](https://www.mgmarinov.com/portfolio)
 
 ---
 
