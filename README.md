@@ -87,28 +87,19 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
 
 ---
 
-## 📫 Contact Me
-
-Feel free to reach out through any of the following channels:
+## 📫 Contact
 
 <div align="center">
-  <a href="mailto:mg.marinov@gmx.es" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email" style="margin: 0 20px; transition: transform 0.2s;">
+  <a href="mailto:mg.marinov@gmx.es">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email" style="margin: 0 20px;">
   </a>
-  <a href="https://www.linkedin.com/in/mgmarinov/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn" style="margin: 0 20px; transition: transform 0.2s;">
+  <a href="https://www.linkedin.com/in/mgmarinov/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn" style="margin: 0 20px;">
   </a>
-  <a href="https://www.mgmarinov.com/portfolio" target="_blank">
-    <!-- Usando FontAwesome para el ícono del portafolio -->
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/solid/address-card.svg" width="40" alt="Portfolio" style="margin: 0 20px; transition: transform 0.2s;">
+  <a href="https://www.mgmarinov.com/portfolio">
+    <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio" style="margin: 0 20px;">
   </a>
 </div>
-
-### How to Reach Me
-
-- 📧 **Email**: [mg.marinov@gmx.es](mailto:mg.marinov@gmx.es)
-- 🔗 **LinkedIn**: [mgmarinov](https://www.linkedin.com/in/mgmarinov/)
-- 🌐 **Portfolio**: [mgmarinov.com/portfolio](https://www.mgmarinov.com/portfolio)
 
 ---
 
