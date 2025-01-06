@@ -87,21 +87,31 @@ In parallel, I am studying **Quality Assurance (QA)**, which helps me understand
 
 ---
 
-Feel free to connect with me or explore my projects. Looking forward to collaborating and learning from the amazing community here!
+## 📫 Contact Me
 
-## 📫 Contact
+Feel free to reach out through any of the following channels:
 
 <div align="center">
-  <a href="mailto:mg.marinov@gmx.es">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email" style="margin: 0 20px;">
+  <a href="mailto:mg.marinov@gmx.es" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email" style="margin: 0 20px; transition: transform 0.2s;">
   </a>
-  <a href="https://www.linkedin.com/in/mgmarinov/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/mgmarinov/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn" style="margin: 0 20px; transition: transform 0.2s;">
   </a>
-  <a href="https://www.mgmarinov.com/portfolio">
-    <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio" style="margin: 0 20px;">
+  <a href="https://www.mgmarinov.com/portfolio" target="_blank">
+    <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio" style="margin: 0 20px; transition: transform 0.2s;">
   </a>
 </div>
+
+### How to Reach Me
+
+- 📧 **Email**: [mg.marinov@gmx.es](mailto:mg.marinov@gmx.es)
+- 🔗 **LinkedIn**: [mgmarinov](https://www.linkedin.com/in/mgmarinov/)
+- 🌐 **Portfolio**: [mgmarinov.com/portfolio](https://www.mgmarinov.com/portfolio)
+
+---
+
+Feel free to contact me for collaboration, feedback, or just a friendly chat. I'm always happy to connect!
 
 ---
 <!--
