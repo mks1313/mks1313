@@ -1,6 +1,7 @@
- <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hello,+I'm+Maksim+👋;Welcome+to+my+GitHub+profile!" alt="Typing Text"/>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hello,+I'm+Maksim+👋;**Welcome+to+my+GitHub+profile!**;**Full-Stack+Developer**;**Passionate+about+Front-end+and+Back-end**;**Creating+modern+and+responsive+designs**;**Learning+new+technologies+every+day!**" alt="Typing Text"/>
 </p>
+
 
 
 ----
