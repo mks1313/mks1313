@@ -11,7 +11,7 @@
 ### Overall Stats and Top Languages
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&bg_color=000000&text_color=ffffff&icon_color=00aaff&border_radius=10" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&langs_count=10&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
 </p>
 
 
