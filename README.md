@@ -8,6 +8,8 @@
 
 ## GitHub Statistics   
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mks1313&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Overall Stats and Top Languages
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&bg_color=000000&text_color=ffffff&icon_color=00aaff&border_radius=10" alt="GitHub Stats" />
