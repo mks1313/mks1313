@@ -17,7 +17,7 @@
 
 ### Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mks1313&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=00aaff&fire=00aaff&currStreakNum=ffffff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mks1313&background=000000&stroke=ffffff&ring=00aaff&fire=00aaff&currStreakNum=ffffff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 
