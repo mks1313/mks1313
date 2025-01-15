@@ -8,7 +8,8 @@
 
 ## GitHub Statistics   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mks1313&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&text_color=ffffff&icon_color=00aaff&title_color=00aaff&border_color=ffffff&border_radius=10&hide_title=true&bg_image=data:image/svg+xml,%3Csvg%20width='100'%20height='100'%20viewBox='0%200%20100%20100'%20xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient%20id='grad'%20x1='0'%20x2='1'%20y1='0'%20y2='1'%3E%3Cstop%20offset='0'%20stop-color='%2300aaff'%3E%3C/stop%3E%3Cstop%20offset='1'%20stop-color='%23008BFF'%3E%3C/stop%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='100'%20height='100'%20fill='url(%23grad)'/%3E%3C/svg%3E)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Overall Stats and Top Languages
 <p align="center">
