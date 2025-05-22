@@ -21,6 +21,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mks1313&background=000000&stroke=ffffff&ring=00aaff&fire=00aaff&currStreakNum=ffffff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
+
+
+ [![Maksim's github stats](https://bad-apple-github-readme.vercel.app/api?username=mks1313&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mks1313&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Maksim's current streak](https://streak-stats.demolab.com/?user=mks1313&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 ---
 
 [![Codewars Badge](https://www.codewars.com/users/mks13/badges/large)](https://www.codewars.com/users/mks13)
