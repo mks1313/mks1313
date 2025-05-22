@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Maksim
+## <p align="center"><img width="80%" alt="Hello, I'm Maksim!" src="./assets/gh-readme-header.png" /></p>
 
 💻 Full-Stack Developer  
 ⚙️ C / C++ / Linux / Bash / React / Node / JS / Docker  
