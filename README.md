@@ -9,11 +9,20 @@
 
 ### 📊 GitHub Stats
 
-[![Maksim's github stats](https://bad-apple-github-readme.vercel.app/api?username=mks1313&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+<table>
+  <tr>
+    <td>
+      <img src="https://bad-apple-github-readme.vercel.app/api?username=mks1313&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" />
+    </td>
+    <td>
+      <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mks1313&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
+    </td>
+  </tr>
+</table>
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mks1313&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![Maksim's current streak](https://streak-stats.demolab.com/?user=mks1313&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mks1313&count_private=true&theme=blue-green&title_color=00b3ff" />
+</p>
 
 ---
 
