@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Maksim
 
 💻 Full-Stack Developer  
-⚙️ C / C++ / / Linux / Bash / React / Node / JS / Docker  
+⚙️ C / C++ / Linux / Bash / React / Node / JS / Docker  
 🌐 Passionate about building clean, efficient and modern web apps  
 📈 Always learning, growing, and contributing  
 
