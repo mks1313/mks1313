@@ -1,37 +1,25 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hello,+I'm+Maksim+👋;**Welcome+to+my+GitHub+profile!**;**Full-Stack+Developer**;**Passionate+about+Front-end+and+Back-end**;**Creating+modern+and+responsive+designs**;**Learning+new+technologies+every+day!**" alt="Typing Text"/>
-</p>
+## 👋 Hello, I'm Maksim
 
+💻 Full-Stack Developer  
+⚙️ C / C++ / / Linux / Bash / React / Node / JS / Docker  
+🌐 Passionate about building clean, efficient and modern web apps  
+📈 Always learning, growing, and contributing  
 
-
-----
-
-## GitHub Statistics   
-
-### Overall Stats and Top Languages
-
-<div style="display: flex; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&text_color=ffffff&icon_color=00aaff&title_color=00aaff&border_color=ffffff&border_radius=10&hide_title=true&bg_image=data:image/svg+xml,%3Csvg%20width='100'%20height='100'%20viewBox='0%200%20100%20100'%20xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient%20id='grad'%20x1='0'%20x2='1'%20y1='0'%20y2='1'%3E%3Cstop%20offset='0'%20stop-color='%2300aaff'%3E%3C/stop%3E%3Cstop%20offset='1'%20stop-color='%23008BFF'%3E%3C/stop%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='100'%20height='100'%20fill='url(%23grad)'/%3E%3C/svg%3E" alt="GitHub Stats" style="height: 100%; object-fit: cover;" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" style="height: 100%; object-fit: cover;" />
-</div>
-
-
-### Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mks1313&background=000000&stroke=ffffff&ring=00aaff&fire=00aaff&currStreakNum=ffffff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</p>
-
-
-
- [![Maksim's github stats](https://bad-apple-github-readme.vercel.app/api?username=mks1313&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mks1313&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![Maksim's current streak](https://streak-stats.demolab.com/?user=mks1313&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 ---
 
-[![Codewars Badge](https://www.codewars.com/users/mks13/badges/large)](https://www.codewars.com/users/mks13)
+### 📊 GitHub Stats
 
+[![Maksim's github stats](https://bad-apple-github-readme.vercel.app/api?username=mks1313&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mks1313&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Maksim's current streak](https://streak-stats.demolab.com/?user=mks1313&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+---
+
+### 🥋 Codewars
+
+[![Codewars Badge](https://www.codewars.com/users/mks13/badges/large)](https://www.codewars.com/users/mks13)
 
 ---
 
