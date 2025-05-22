@@ -1,9 +1,9 @@
-## <p align="center"><img width="80%" alt="Hello, I'm Maksim!" src="./assets/gh-readme-header.png" /></p>
-
-💻 Full-Stack Developer  
-⚙️ C / C++ / Linux / Bash / React / Node / JS / Docker  
-🌐 Passionate about building clean, efficient and modern web apps  
-📈 Always learning, growing, and contributing  
+<h2 align="center">👨‍💻 Hello, I'm Maksim </h2>
+<p align="center">
+  💻 Full-Stack Developer & Shell Engineer <br>
+  🎯 Focused on clean, efficient, and modern software <br>
+  🌱 Always learning and growing
+</p>
 
 ---
 
