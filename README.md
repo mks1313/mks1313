@@ -1,6 +1,6 @@
 <h2 align="center">👨‍💻 Hello, I'm Maksim </h2>
 <p align="center">
-  💻 Full-Stack Developer & Shell Engineer <br>
+  💻 Full-Stack Developer & Software Engineer <br>
   🎯 Focused on clean, efficient, and modern software <br>
   🌱 Always learning and growing
 </p>
