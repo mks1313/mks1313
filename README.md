@@ -12,13 +12,20 @@
 <table>
   <tr>
     <td>
-      <img src="https://bad-apple-github-readme.vercel.app/api?username=mks1313&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&include_all_commits=true&line_height=24&theme=blue-green&icon_color=00b3ff&title_color=00b3ff&v=1"
+        alt="mks1313 GitHub stats"
+      />
     </td>
     <td>
-      <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mks1313&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&theme=blue-green&title_color=00b3ff&langs_count=8&v=1"
+        alt="Top languages"
+      />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mks1313&count_private=true&theme=blue-green&title_color=00b3ff" />
