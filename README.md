@@ -127,15 +127,6 @@ const maksim = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00b3ff&icon_color=00b3ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b3ff&langs_count=8"/>
-</div>
-
----
-
 ## 🥋 Codewars Journey
 
 <div align="center">
@@ -150,32 +141,26 @@ const maksim = {
 
 ## 💼 What I Bring to the Table
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🎨 Frontend Development
-**Strength:** Building responsive, accessible UIs with modern frameworks  
-**Focus:** Performance optimization and user experience
-
-#### ⚙️ Backend Development
-**Strength:** Designing scalable APIs and robust server architectures  
-**Focus:** Security, authentication, and data integrity
-
-</td>
-<td width="50%">
-
-#### 🔧 Systems Programming
-**Strength:** Low-level programming and algorithmic problem-solving  
-**Focus:** Efficiency, memory management, and optimization
-
-#### 🧪 Quality Assurance
-**Strength:** Automated testing and continuous integration  
-**Focus:** Test-driven development and reliability
-
-</td>
-</tr>
-</table>
+```python
+expertise = {
+    "frontend": {
+        "strength": "Building responsive, accessible UIs with modern frameworks",
+        "focus": "Performance optimization and user experience"
+    },
+    "backend": {
+        "strength": "Designing scalable APIs and robust server architectures",
+        "focus": "Security, authentication, and data integrity"
+    },
+    "systems": {
+        "strength": "Low-level programming and algorithmic problem-solving",
+        "focus": "Efficiency, memory management, and optimization"
+    },
+    "quality": {
+        "strength": "Automated testing and continuous integration",
+        "focus": "Test-driven development and reliability"
+    }
+}
+```
 
 ---
 
