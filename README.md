@@ -79,7 +79,9 @@ const maksim = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-Security-red?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Key Technologies:**
 - **RESTful APIs** - Service architecture
@@ -99,6 +101,7 @@ const maksim = {
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 **Focus Areas:**
 - Memory management & optimization
@@ -114,8 +117,12 @@ const maksim = {
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=shell&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
@@ -141,26 +148,32 @@ const maksim = {
 
 ## 💼 What I Bring to the Table
 
-```python
-expertise = {
-    "frontend": {
-        "strength": "Building responsive, accessible UIs with modern frameworks",
-        "focus": "Performance optimization and user experience"
-    },
-    "backend": {
-        "strength": "Designing scalable APIs and robust server architectures",
-        "focus": "Security, authentication, and data integrity"
-    },
-    "systems": {
-        "strength": "Low-level programming and algorithmic problem-solving",
-        "focus": "Efficiency, memory management, and optimization"
-    },
-    "quality": {
-        "strength": "Automated testing and continuous integration",
-        "focus": "Test-driven development and reliability"
-    }
-}
-```
+<table>
+<tr>
+<td width="50%">
+
+#### 🎨 Frontend Development
+**Strength:** Building responsive, accessible UIs with modern frameworks  
+**Focus:** Performance optimization and user experience
+
+#### ⚙️ Backend Development
+**Strength:** Designing scalable APIs and robust server architectures  
+**Focus:** Security, authentication, and data integrity
+
+</td>
+<td width="50%">
+
+#### 🔧 Systems Programming
+**Strength:** Low-level programming and algorithmic problem-solving  
+**Focus:** Efficiency, memory management, and optimization
+
+#### 🧪 Quality Assurance
+**Strength:** Automated testing and continuous integration  
+**Focus:** Test-driven development and reliability
+
+</td>
+</tr>
+</table>
 
 ---
 
