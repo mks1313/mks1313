@@ -1,132 +1,208 @@
-<h2 align="center">👨‍💻 Hello, I'm Maksim </h2>
-<p align="center">
-  💻 Full-Stack Developer & Software Engineer <br>
-  🎯 Focused on clean, efficient, and modern software <br>
-  🌱 Always learning and growing
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&include_all_commits=true&line_height=24&theme=blue-green&icon_color=00b3ff&title_color=00b3ff&v=1"
-        alt="mks1313 GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&theme=blue-green&title_color=00b3ff&langs_count=8&v=1"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mks1313&count_private=true&theme=blue-green&title_color=00b3ff" />
-</p>
-
----
-
-### 🥋 Codewars
-
-[![Codewars Badge](https://www.codewars.com/users/mks13/badges/large)](https://www.codewars.com/users/mks13)
-
----
-
-Welcome to my GitHub profile! I'm a technology and programming enthusiast with a strong background in various areas. Currently, I'm on an exciting journey of learning and development in the software world.
-
-## 🚀 About Me
-
-🎓 **Student at Campus 42 Barcelona**  
-Focusing on **C** and **C++**, where I'm deepening my knowledge in systems programming and software development.
-
-🧑‍💻 **Ironhack Bootcamp**  
-Completed an intensive bootcamp in **JavaScript**, **Node.js**, **HTML**, **CSS**, **Bootstrap**, **Tailwind**, and **React**. This program has expanded my web technologies knowledge and provided practical skills in both front-end and back-end development.
-
-🔧 **Development Experience**  
-I collaborate on various projects, applying my programming and development skills to create innovative and effective solutions. I enjoy working in teams and tackling technical challenges that allow me to grow as a developer.
-
-🔍 **Parallel QA Studies**  
-In parallel, I am studying **Quality Assurance (QA)**, which helps me understand the importance of quality in software development and apply techniques to ensure that products are robust and reliable.
-
----
-
-### Skills
-
-- **Programming Languages**: C, C++
-- **Web Development**:
-  - **Frontend**: HTML, CSS, JavaScript
-    - **Frameworks/Libraries**: React, Bootstrap, Tailwind
-    - **Additional Technologies**:
-      - **i18n**: A library for internationalization used to support multiple languages in frontend applications, enabling dynamic language switching and localization.
-      - **Axios**: A promise-based HTTP client for making requests to APIs. It simplifies sending HTTP requests and handling responses, and is commonly used for data fetching in frontend applications.
-  - **Backend**: Node.js, Express.js
-    - **Additional Technologies**:
-      - **bcrypt**: A library for hashing passwords, ensuring secure storage and management of user credentials in backend applications. Used for implementing secure user authentication and protecting sensitive data.
-      - **Postman**: A popular tool for API development and testing, allowing you to send requests, inspect responses, and document API endpoints.
-- **Quality Assurance (QA)**:
-  - **Testing Tools**:
-    - **Selenium**: A powerful tool for automating web browsers, used for writing complex tests across different browsers and programming languages.
-    - **Cypress**: An end-to-end testing framework that provides fast, reliable testing for modern web applications, with an interactive interface for debugging.
-
----
-## ▪ Tech Stack
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40"/> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Terminal_emulator" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnome/gnome-icon.svg" alt="terminal" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-
----
-
-## 📫 Contact
-
 <div align="center">
-  <a href="mailto:mg.marinov@gmx.es">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email" style="margin: 0 20px;">
-  </a>
-  <a href="https://www.linkedin.com/in/mgmarinov/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn" style="margin: 0 20px;">
-  </a>
-  <a href="https://www.mgmarinov.com/portfolio">
-    <img src="https://res.cloudinary.com/dnwyfbj7m/image/upload/v1724882231/portfolio.png" width="40" alt="Portfolio" style="margin: 0 20px;">
-  </a>
+  <h1>👨‍💻 Maksim Marinov</h1>
+  <h3>Full-Stack Developer & Software Engineer</h3>
+  
+  <p>
+    <em>Crafting robust, scalable solutions with precision and passion</em>
+  </p>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00b3ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mgmarinov.com/portfolio)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgmarinov/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mg.marinov@gmx.es)
+  
 </div>
 
 ---
 
-Feel free to contact me for collaboration, feedback, or just a friendly chat. I'm always happy to connect!
+## 🎯 About Me
+
+I'm a **full-stack developer** with a passion for building efficient, maintainable, and elegant software solutions. Currently advancing my expertise through rigorous training at **42 Barcelona** while leveraging modern web technologies in real-world applications.
+
+```javascript
+const maksim = {
+    location: "Barcelona, Spain",
+    education: ["42 Barcelona", "Ironhack Full-Stack Bootcamp"],
+    currentFocus: ["Systems Programming", "Web Architecture", "Quality Assurance"],
+    languages: ["Spanish", "English", "Russian"],
+    approach: "Clean code, continuous learning, pragmatic solutions"
+};
+```
+
+### 🎓 Education & Training
+
+**🏫 42 Barcelona** | *Current Student*
+- Intensive training in **C** and **C++**
+- Systems programming, algorithms, and data structures
+- Peer-to-peer learning methodology
+
+**💻 Ironhack Full-Stack Web Development Bootcamp** | *Graduate*
+- Comprehensive training in modern web technologies
+- Full-stack JavaScript development (MERN stack)
+- Agile methodologies and collaborative development
+
+**🔍 Quality Assurance Certification** | *In Progress*
+- Automated testing strategies and best practices
+- Test-driven development (TDD) principles
 
 ---
-<!--
-## 💡 Support My Work
 
-I'm a passionate young developer working on exciting projects that aim to make a difference! 💻✨  
-If you like my work and would like to support me in my journey, your contribution would mean a lot to me. Every donation helps me continue learning and growing as a developer. 🌱
+## 🛠️ Technical Arsenal
 
-[![Donate on PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://www.paypal.com/donate/?hosted_button_id=HLU8LKL85N896)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Thank you for your support! 🙏  -->
+### Frontend Development
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Key Libraries:**
+- **i18next** - Internationalization framework
+- **Axios** - Promise-based HTTP client
+- **React Router** - Navigation and routing
+
+</div>
+</td>
+<td valign="top" width="50%">
+
+### Backend Development
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-Security-red?style=flat-square)
+
+**Key Technologies:**
+- **RESTful APIs** - Service architecture
+- **JWT Authentication** - Secure token management
+- **bcrypt** - Password hashing & encryption
+- **Mongoose** - MongoDB ODM
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Systems Programming
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+
+**Focus Areas:**
+- Memory management & optimization
+- Data structures & algorithms
+- Object-oriented programming
+- Low-level system design
+
+</div>
+</td>
+<td valign="top" width="50%">
+
+### Tools & DevOps
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mks1313&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00b3ff&icon_color=00b3ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks1313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b3ff&langs_count=8"/>
+</div>
+
+---
+
+## 🥋 Codewars Journey
+
+<div align="center">
+  
+[![Codewars](https://www.codewars.com/users/mks13/badges/large)](https://www.codewars.com/users/mks13)
+
+*Continuously sharpening problem-solving skills through algorithmic challenges*
+
+</div>
+
+---
+
+## 💼 What I Bring to the Table
+
+```python
+expertise = {
+    "frontend": {
+        "strength": "Building responsive, accessible UIs with modern frameworks",
+        "focus": "Performance optimization and user experience"
+    },
+    "backend": {
+        "strength": "Designing scalable APIs and robust server architectures",
+        "focus": "Security, authentication, and data integrity"
+    },
+    "systems": {
+        "strength": "Low-level programming and algorithmic problem-solving",
+        "focus": "Efficiency, memory management, and optimization"
+    },
+    "quality": {
+        "strength": "Automated testing and continuous integration",
+        "focus": "Test-driven development and reliability"
+    }
+}
+```
+
+---
+
+## 🌱 Current Focus
+
+- 🔥 Mastering **systems programming** at 42 Barcelona
+- 🚀 Building production-ready **full-stack applications**
+- 🧪 Deepening expertise in **automated testing** and QA methodologies
+- 📚 Exploring **Rust** for systems-level programming
+- 🎯 Contributing to **open-source projects**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+### Reach Out
+
+<a href="mailto:mg.marinov@gmx.es">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/mgmarinov/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.mgmarinov.com/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-00b3ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+---
+
+<sub>💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*</sub>
+
+</div>
