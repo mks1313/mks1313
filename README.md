@@ -1,8 +1,7 @@
 # Maksim
 
 ### Software Engineer
-Building software with a focus on reliability, simplicity, and understanding how things work, from frontend
-interfaces to backend services and the operating system underneath.
+Building reliable software by understanding how things work, from frontend to systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00b3ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mgmarinov.com/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgmarinov/)
@@ -12,8 +11,8 @@ interfaces to backend services and the operating system underneath.
 
 ## About
 
-I'm a full-stack developer based in Barcelona with a strong interest in
-understanding how software works beyond the framework level.
+I'm a software engineer based in Barcelona with an interest in building 
+maintainable software and understanding how systems work beyond the framework level.
 
 My experience combines modern web development with systems programming,
 allowing me to work across different layers of the software stack. I
@@ -39,11 +38,11 @@ works, not only **how** to make it work.
 
 ## Current Focus
 
-- Building production-ready full-stack applications.
-- Expanding my knowledge of software architecture.
-- Deepening my understanding of Linux, networking, and systems programming.
-- Writing clean, maintainable software.
-- Continuously improving through hands-on development and open-source learning.
+- Production-ready web applications
+- Software architecture
+- Linux & systems programming
+- Networking
+- Clean, maintainable software
 
 ---
 
