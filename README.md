@@ -16,15 +16,14 @@ interfaces to backend services and the operating system underneath.
 I'm a full-stack developer based in Barcelona with a strong interest in
 understanding how software works beyond the framework level.
 
-I enjoy building modern web applications, designing backend services,
-exploring Linux systems, and learning the fundamentals behind the
-technologies I use every day. For me, writing software is not only about
-making it work---it's about understanding why it works.
+My experience combines modern web development with systems programming,
+allowing me to work across different layers of the software stack. I
+enjoy building maintainable applications, exploring Linux, understanding
+networking, and learning the fundamentals behind the tools I use every
+day.
 
-My background combines practical full-stack development with systems
-programming, giving me experience across different layers of the
-software stack. I value clean code, maintainability, and continuous
-learning over trends or unnecessary complexity.
+I believe good software starts with understanding **why** something
+works, not only **how** to make it work.
 
 ``` javascript
 const maksim = {
@@ -36,13 +35,11 @@ const maksim = {
   ],
 
   stack: [
-    "JavaScript",
-    "TypeScript",
     "React",
+    "TypeScript",
     "Python",
     "Flask",
     "MongoDB",
-    "PostgreSQL",
     "Docker",
     "Linux",
     "C",
@@ -52,89 +49,46 @@ const maksim = {
   interests: [
     "Software Architecture",
     "Systems Programming",
-    "Linux",
-    "Networking",
-    "Performance",
-    "Problem Solving"
-  ],
-
-  mindset: "Understand first. Build second."
+    "Networking"
+  ]
 };
 ```
 
 ------------------------------------------------------------------------
 
+## Featured Projects
+
+> Add your most representative projects here.
+
+-   **Project Name** --- Short one-line description.
+-   **Project Name** --- Short one-line description.
+-   **Project Name** --- Short one-line description.
+-   **Project Name** --- Short one-line description.
+
+------------------------------------------------------------------------
+
 ## Tech Stack
 
-### Languages
-
--   C
--   C++
--   JavaScript
--   TypeScript
--   Python
-
-### Frontend
-
--   React
--   HTML
--   CSS
--   Tailwind CSS
--   Bootstrap
--   Sass
-
-### Backend
-
--   Flask
--   Express
--   MongoDB
--   PostgreSQL
--   MariaDB
--   REST APIs
--   JWT Authentication
-
-### Tools
-
--   Git
--   Docker
--   Linux
--   Nginx
--   Bash
--   VirtualBox
--   Postman
--   Selenium
--   Cypress
+  Area            Technologies
+  --------------- --------------------------------------------
+  **Languages**   C · C++ · JavaScript · TypeScript · Python
+  **Frontend**    React · HTML · CSS · Tailwind CSS
+  **Backend**     Flask · Express · MongoDB · PostgreSQL
+  **Tools**       Docker · Git · Linux · Bash · Nginx
+  **Testing**     Selenium · Cypress
 
 ------------------------------------------------------------------------
 
 ## Current Focus
 
 -   Building production-ready web applications.
--   Improving my understanding of software architecture.
--   Deepening my knowledge of Linux, networking, and systems
+-   Expanding my knowledge of software architecture.
+-   Deepening my understanding of Linux, networking, and systems
     programming.
--   Writing clean, maintainable, and well-tested software.
--   Contributing to open-source projects whenever possible.
-
-------------------------------------------------------------------------
-
-## Featured Projects
-
-A selection of projects that reflect both my professional experience and
-my interest in software engineering.
-
-> Add your most important repositories here.
+-   Writing clean, maintainable software.
 
 ------------------------------------------------------------------------
 
 ## Codewars
 
 [![Codewars](https://www.codewars.com/users/mks13/badges/large)](https://www.codewars.com/users/mks13)
-
-------------------------------------------------------------------------
-
-## Contact
-
--   Portfolio --- https://www.mgmarinov.com/portfolio
--   LinkedIn --- https://www.linkedin.com/in/mgmarinov/
--   Email --- mg.marinov@gmx.es
