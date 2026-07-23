@@ -56,36 +56,27 @@ const maksim = {
 
 ------------------------------------------------------------------------
 
-## Featured Projects
-
-> Add your most representative projects here.
-
--   **Project Name** --- Short one-line description.
--   **Project Name** --- Short one-line description.
--   **Project Name** --- Short one-line description.
--   **Project Name** --- Short one-line description.
-
-------------------------------------------------------------------------
-
 ## Tech Stack
 
-  Area            Technologies
-  --------------- --------------------------------------------
-  **Languages**   C · C++ · JavaScript · TypeScript · Python
-  **Frontend**    React · HTML · CSS · Tailwind CSS
-  **Backend**     Flask · Express · MongoDB · PostgreSQL
-  **Tools**       Docker · Git · Linux · Bash · Nginx
-  **Testing**     Selenium · Cypress
+| Area | Technologies |
+| :--- | :----------- |
+| **Languages** | C · C++ · JavaScript · TypeScript · Python |
+| **Frontend** | React · HTML · CSS · Tailwind CSS · Bootstrap |
+| **Backend** | Flask · Express · MongoDB · PostgreSQL · MariaDB |
+| **DevOps & Tools** | Docker · Git · Linux · Bash · Nginx · VirtualBox |
+| **Testing** | Selenium · Cypress |
 
-------------------------------------------------------------------------
+---
 
 ## Current Focus
 
--   Building production-ready web applications.
--   Expanding my knowledge of software architecture.
--   Deepening my understanding of Linux, networking, and systems
-    programming.
--   Writing clean, maintainable software.
+- Building production-ready full-stack applications.
+- Expanding my knowledge of software architecture.
+- Deepening my understanding of Linux, networking, and systems programming.
+- Writing clean, maintainable software.
+- Continuously improving through hands-on development and open-source learning.
+
+---
 
 ------------------------------------------------------------------------
 
