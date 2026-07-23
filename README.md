@@ -25,35 +25,6 @@ day.
 I believe good software starts with understanding **why** something
 works, not only **how** to make it work.
 
-``` javascript
-const maksim = {
-  location: "Barcelona, Spain",
-
-  education: [
-    "42 Barcelona",
-    "Ironhack Full-Stack Web Development"
-  ],
-
-  stack: [
-    "React",
-    "TypeScript",
-    "Python",
-    "Flask",
-    "MongoDB",
-    "Docker",
-    "Linux",
-    "C",
-    "C++"
-  ],
-
-  interests: [
-    "Software Architecture",
-    "Systems Programming",
-    "Networking"
-  ]
-};
-```
-
 ------------------------------------------------------------------------
 
 ## Tech Stack
