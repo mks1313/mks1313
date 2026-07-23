@@ -1,8 +1,7 @@
 # Maksim
 
-### Full-Stack Developer
-
-Building reliable software by understanding how it works, from frontend
+### Software Engineer
+Building software with a focus on reliability, simplicity, and understanding how things work, from frontend
 interfaces to backend services and the operating system underneath.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00b3ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mgmarinov.com/portfolio)
@@ -18,9 +17,8 @@ understanding how software works beyond the framework level.
 
 My experience combines modern web development with systems programming,
 allowing me to work across different layers of the software stack. I
-enjoy building maintainable applications, exploring Linux, understanding
-networking, and learning the fundamentals behind the tools I use every
-day.
+enjoy building maintainable applications, exploring Linux, networking, 
+and learning the fundamentals behind the tools I use every day.
 
 I believe good software starts with understanding **why** something
 works, not only **how** to make it work.
@@ -34,7 +32,7 @@ works, not only **how** to make it work.
 | **Languages** | C · C++ · JavaScript · TypeScript · Python |
 | **Frontend** | React · HTML · CSS · Tailwind CSS · Bootstrap |
 | **Backend** | Flask · Express · MongoDB · PostgreSQL · MariaDB |
-| **DevOps & Tools** | Docker · Git · Linux · Bash · Nginx · VirtualBox |
+| **DevOps & Tools** | Docker · Git · Linux · Bash · Nginx |
 | **Testing** | Selenium · Cypress |
 
 ---
